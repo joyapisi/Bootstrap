@@ -63,7 +63,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone[ (https://github.com/joyapisi/ThePortfolio.git)]
+  git clone[ (https://github.com/joyapisi/Bootstrap.git)]
 ```
 ### Set Up BootStrap
 There are about ten ways that you can install bootstrap to your project. Visit <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">this site</a> to pick the one that suits you best.

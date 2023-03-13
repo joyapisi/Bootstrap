@@ -41,8 +41,7 @@ HTML & CSS
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-Click here to see a live demo of this project online: <li><a href="#">Live Demo Coming Soon</a></li>
-
+Click <a href="https://joyapisi.github.io/Bootstrap/">here</a> to see a live demo of this project online: 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 Creating your first "Bootstrap" project
